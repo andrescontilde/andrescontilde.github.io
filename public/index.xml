@@ -10,6 +10,15 @@
 		
 		
 		
+			<lastBuildDate>Wed, 29 Jul 2026 17:43:10 -0500</lastBuildDate>
+		
 			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>AndOyendo</title>
+				<link>http://localhost:1313/andoyendo/</link>
+				<pubDate>Wed, 29 Jul 2026 17:43:10 -0500</pubDate>
+				<guid>http://localhost:1313/andoyendo/</guid>
+				<description></description>
+			</item>
 	</channel>
 </rss>

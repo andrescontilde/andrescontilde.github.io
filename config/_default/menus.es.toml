@@ -11,19 +11,29 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Blog"
-  pageRef = "posts"
+  name = "Escritos"
+  pageRef = "essays"
   weight = 10
 
 [[main]]
-  name = "Categories"
-  pageRef = "categories"
+  name = "Notas"
+  pageRef = "notes"
   weight = 20
 
 [[main]]
-  name = "Tags"
-  pageRef = "tags"
+  name = "Podcast"
+  pageRef = "podcast"
   weight = 30
+
+[[main]]
+  name = "Ahora"
+  pageRef = "pages/now"
+  weight = 40
+
+[[main]]
+  name = "Acerca de"
+  pageRef = "pages/about"
+  weight = 50
 
 [[main]]
   identifier = "search"
